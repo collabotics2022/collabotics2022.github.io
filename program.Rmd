@@ -1,0 +1,474 @@
+---
+title: "Program"
+description: |
+  Workshop Program
+---
+
+TBA
+
+<div style="width: 30%; float: right;">
+
+#### Sponsors
+
+<a href = "https://www.tsukuba.ac.jp/en/">
+
+```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
+knitr::include_graphics("imgs/ut2.png")
+```
+
+</a>
+
+-----
+
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
+
+```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/uga2.png")
+```
+</a>
+
+-----
+
+<a href = "https://www.ruhr-uni-bochum.de/en">
+
+```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
+```
+
+</a>
+
+-----
+
+<a href = "https://www.cnrs.fr/en">
+
+```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/cnrs.png")
+```
+
+</a>
+
+-----
+
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
+
+```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
+knitr::include_graphics("imgs/region.png")
+```
+
+</a>
+
+-----
+
+<a href = "https://air.tsukuba.ac.jp/en/">
+
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left', }
+knitr::include_graphics("imgs/c_air.png")
+```
+
+</a>
+
+-----
+
+<a href = "https://www.grenoble-inp.fr/en">
+
+```{r inp, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/Grenoble_INP.png")
+```
+
+</a>
+
+
+<!-- </div> -->
+
+
+<!--  <div style="width: 65%; float: left;"> -->
+
+
+
+
+<!-- <div id="complete-program" class="section level4"> -->
+
+<!-- </div> -->
+
+<!-- <table border="1"> -->
+<!-- <tr style="text-align:center"> -->
+<!--   <th colspan=4>DAY 1 - December 15th</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>Japan Time</th> -->
+<!-- <th>Paris Time</th> -->
+<!-- <th>Section A</th> -->
+<!-- <th>Section B</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:00 - 16:10</th> -->
+<!-- <th>08:00 - 08:10</th> -->
+<!-- <th colspan="2">Opening - Keynote Room</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:10 - 16:40</th> -->
+<!-- <th>08:10 - 08:40</th> -->
+<!-- <td colspan="2"><i><b>Molecularly Interpretable Machine Learning for Computational Pathology</b></i> -->
+<!-- <br> <i>Axel Mosig</i> <br> -->
+
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:40 - 16:45</th> -->
+<!-- <th>08:40 - 08:45</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:45 - 17:05</th> -->
+<!-- <th>08:45 - 09:05</th> -->
+<!-- <td><i><b>Robot-assisted voluntary rehabilitation training for patients with shoulder elevation dysfunction from cervical origin </b></i> -->
+<!-- <br> <i>Margaux Noémie Lafitte</i><br> -->
+<!-- Presentation Room A -->
+<!-- </td> -->
+<!-- <td><i><b>Weakly-supervised learning for (label-free) Computational Pathology</b></i> -->
+<!-- <br> <i>Joshua Butke</i><br>  -->
+<!-- Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:05 - 17:25</th> -->
+<!-- <th>09:05 - 09:25</th> -->
+<!-- <td><i><b> </b></i> -->
+<!-- <br> <i> </i><br> -->
+
+<!-- Presentation Room A -->
+<!-- </td> -->
+<!-- <td><i><b>Direct identification of defects using Kikuchi patterns – A machine learning approach</b></i> -->
+<!-- <br> <i>Ashish Chauniyal</i><br> -->
+<!-- Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:25 - 17:35</th> -->
+<!-- <th>09:25 - 09:35</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:35 - 18:05</th> -->
+<!-- <th>09:35 - 10:05</th> -->
+<!-- <td colspan="2"><b><i>Inner Product in Image Feature Learning</b></i> -->
+<!-- <br> <i>Takumi Kobayashi</i><br> -->
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:05 - 18:10</th> -->
+<!-- <th>10:05 - 10:10</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:10 - 18:30</th> -->
+<!-- <th>10:10 - 10:30</th> -->
+<!-- <td><i><b>Artistic Intent and the Human Gaze: Using VR to understand how we view images</b></i> -->
+<!-- <br> <i>Nicholas Schwier</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Self-supervised learning for person re-identification. Insigth on unsupervised lifelong learning for robotics vision</b></i> -->
+<!-- <br> <i>Baptiste Wagner</i><br> -->
+<!-- Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:30 - 18:50</th> -->
+<!-- <th>10:30 - 10:50</th> -->
+<!-- <td><i><b>Slow Feature Subspace for Action Recognition</b></i> -->
+<!-- <br> <i>Suzana Rita Alves Beleza</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Computational imaging: A practical application for image spectrometers</b></i> -->
+<!-- <br> <i>Daniele Picone</i><br> -->
+<!-- Presentation Room B -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:50 - 19:00</th> -->
+<!-- <th>10:50 - 11:00</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:00 - 19:30</th> -->
+<!-- <th>11:00 - 11:30</th> -->
+<!-- <td colspan="2"><b><i>Agent-based social simulation - modelling human behaviours</b></i> -->
+<!-- <br> <i>Julie Dugdale & Carole Adam</i><br> -->
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:35 - 19:55</th> -->
+<!-- <th>11:35 - 11:55</th> -->
+<!-- <td><i><b>Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data </b></i> -->
+<!-- <br> <i>Abe Mitsu Teru</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Hype in funding applications </b></i> -->
+<!-- <br> <i>Neil Millar</i><br> -->
+<!-- Presentation Room B -->
+
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:55 - 21:00</th> -->
+<!-- <th>11:55 - 13:00</th> -->
+<!-- <th colspan="2">Poster session<br> -->
+<!-- Poster Room -->
+<!-- </th> -->
+<!-- </tr> -->
+
+<!-- </table> -->
+
+<!-- <br> -->
+
+
+<!-- <table border="1"> -->
+<!-- <tr style="text-align:center"> -->
+<!-- <th colspan=4>DAY 2 - December 16th</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>Japan Time</th> -->
+<!-- <th>Paris Time</th> -->
+<!-- <th>Section A</th> -->
+<!-- <th>Section B</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:00 - 16:30</th> -->
+<!-- <th>08:00 - 08:30</th> -->
+<!-- <td colspan="2"><b><i>Deep Neuroevolution</b></i> -->
+<!-- <br> <i>Tobias Glasmachers</i><br> -->
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:30 - 16:35</th> -->
+<!-- <th>08:30 - 08:35</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:35 - 16:55</th> -->
+<!-- <th>08:35 - 08:55</th> -->
+<!-- <td><i><b>Ensemble Learning for Cluster Number Detection Based on Shared Nearest Neighbor Graph and Spectral Clustering</b></i> -->
+<!-- <br> <i>Zhang Weihang</i><br> -->
+<!-- Presentation Room A -->
+<!-- </td> -->
+
+<!-- <td><i><b>On the difference between Bayesian neural networks at finite and infinite width</b></i> -->
+<!-- <br> <i>Mariia Vladimirova</i><br> -->
+<!-- Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>16:55 - 17:15</th> -->
+<!-- <th>08:55 - 09:15</th> -->
+<!-- <td><i><b>A novel large scale spectral clustering</b></i> -->
+<!-- <br> <i>Li Hongmin</i><br> -->
+<!-- Presentation Room A -->
+<!-- </td> -->
+<!-- <td><i><b>Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets</b></i> -->
+<!-- <br> <i>Hubert Leterme</i><br> -->
+<!-- Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:15 - 17:25</th> -->
+<!-- <th>09:15 - 09:25</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:25 - 17:55</th> -->
+<!-- <th>09:25 - 09:55</th> -->
+<!-- <td colspan="2"><b><i>Toward GPU–FPGA Accelerated Computing</b></i> -->
+<!-- <br> <i>Ryohei Kobayashi</i><br> -->
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>17:55 - 18:00</th> -->
+<!-- <th>09:55 - 10:00</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:00 - 18:20</th> -->
+<!-- <th>10:00 - 10:20</th> -->
+<!-- <td><i><b>A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison</b></i> -->
+<!-- <br> <i>Sannara EK</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Deep Unfolding of Iteratively Reweighted RPCA for Wireless Sensing</b></i> -->
+<!-- <br> <i>Udaya Sampath K.P. Miriya Thanthrige</i><br> -->
+<!-- <br>Presentation Room B -->
+<!-- </td> -->
+<!-- </tr> -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:20 - 18:40</th> -->
+<!-- <th>10:20 - 10:40</th> -->
+<!-- <td><i><b>Multi-view federated learning with data collaboration</b></i> -->
+<!-- <br> <i>YANG YITAO</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Next Generation Intelligent Spaces</b></i> -->
+<!-- <br> <i>Angan Mitra</i><br> -->
+<!-- Presentation Room B -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:40 - 18:50</th> -->
+<!-- <th>10:40 - 10:50</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>18:50 - 19:20</th> -->
+<!-- <th>10:50 - 11:20</th> -->
+<!-- <td colspan="2"><b><i>Sparse Deep Learning</b></i> -->
+<!-- <br> <i>Johannes Lederer</i><br> -->
+<!-- Keynote Room -->
+<!-- </td> -->
+<!-- </tr> -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:20 - 19:25</th> -->
+<!-- <th>11:20 - 11:25</th> -->
+<!-- <th colspan="2">Coffee break</th> -->
+<!-- </tr> -->
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:25 - 11:25</th> -->
+<!-- <th>11:25 - 11:45</th> -->
+<!-- <td><i><b>Classifying Urban Sounds with Subspaces of Deep Neural Network Features</b></i> -->
+<!-- <br> <i>Maha Mahyub</i><br> -->
+<!-- Presentation Room A -->
+
+<!-- </td> -->
+<!-- <td><i><b>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography</b></i> -->
+<!-- <br> <i>Muhammad Wildan Gifari</i><br> -->
+<!-- Presentation Room B -->
+
+
+<!-- <tr style="text-align:center"> -->
+<!-- <th>19:45 - 20:50</th> -->
+<!-- <th>11:45 - 12:50</th> -->
+<!-- <th colspan="2">Poster session<br> -->
+<!-- Poster Room -->
+<!-- </th> -->
+<!-- </tr> -->
+
+<!-- </table> -->
+
+<!-- <br> -->
+<!-- <div id="poster-data" class="section level4"> -->
+<!-- <h4>Poster Presentations</h4> -->
+<!-- <br> -->
+
+<!-- <ul> -->
+<!-- <li>01: Segmentation of intervertebral disks from videofluorography based on CNN, multi-channelization, and feature selection</li> -->
+<!-- <li>Ayano Fujinaka, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+<!-- <ul> -->
+<!-- <li>02: Image Harmonization with Attention-based Deep Feature Modulation</li> -->
+<!-- <li>Guoqing Hao, Master’s Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>03: Slow Feature Subspace for Action Recognition</li> -->
+<!-- <li>Suzana Rita Alves Beleza, Master’s Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+<!-- <ul> -->
+<!-- <li>04: Fingerspelling recognition with two-steps cascade process of spotting and classification</li> -->
+<!-- <li>Masanori Muroi, Master’s Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+<!-- <ul> -->
+<!-- <li>05: Parameter Evolution Self-adaptive Strategy</li> -->
+<!-- <li>Yifan He, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>06: Multiview Visual Question Answering</li> -->
+<!-- <li>Yue Qiu, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>07: Metric learning method for subspace-based image-set recognition</li> -->
+<!-- <li>Naoya Sogi, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>08: Word Subspace modeling for Text data and its applications</li> -->
+<!-- <li>Erica K. Shimomoto, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>09: Grassmann log model: a neural network layer to process subspaces</li> -->
+<!-- <li>Lincon Souza, Ph.D. Student</li> -->
+<!-- <li>University of Tsukuba</li> -->
+<!-- </ul> -->
+
+
+<!-- <ul> -->
+<!-- <li>10: Feature Extraction of Multimodal Images Based on Tensor Decomposition and Mathematical Morphology</li> -->
+<!-- <li>Mohamad Jouni, Ph.D. Student</li> -->
+<!-- <li>University of Grenoble-Alpes</li> -->
+<!-- </ul> -->
+
+
+
+
+
+
+</div>
