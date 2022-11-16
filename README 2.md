@@ -1,3 +1,0 @@
-# workshopTsukubaGrenoble.github.io
-
-Test

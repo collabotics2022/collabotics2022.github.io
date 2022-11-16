@@ -10,8 +10,6 @@ setwd("~/Documents/estudos/collabotics2022.github.io/")
 
 knitr::opts_chunk$set()
 
-#Plotly
-# x <- y <- list('fixedrange'= TRUE)
 
 #Execute
 render_site()
