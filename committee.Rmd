@@ -80,74 +80,71 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
 
 
-<!-- <div style="width: 63%; float: left;"> -->
+<div style="width: 63%; float: left;">
 
-<!-- <br/> -->
+<br/>
 
 
-<!-- ## Co-chairs -->
+## Co-chairs
 
-<!-- ----- -->
+-----
 
-<!-- <div> -->
+<div>
 
-<!-- <div style="width: 33%; float: left">  -->
+<div style="width: 33%; float: left">
 
-<!-- #### Bojan Batalo	 -->
+#### Jeongwoo Kang
 <!-- PhD Student -->
-<!-- ```{r Bojan, echo=FALSE, out.width = '74%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/bojan.jpg") -->
-<!-- ``` -->
+```{r Jeongwoo, echo=FALSE, out.width = '74%', fig.align='left'}
+knitr::include_graphics("imgs/jeongwoo.jpeg")
+```
 
-<!-- </div> -->
+</div>
 
-<!-- <div style="width: 33%; float: left">  -->
+<div style="width: 33%; float: left">
 
-<!-- #### Joshua Butke	 -->
+#### Jonathan Evertz
 <!-- PhD Student -->
-<!-- ```{r Butke, echo=FALSE, out.width = '67%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/joshua.jpg") -->
-<!-- ``` -->
+```{r Jonathan, echo=FALSE, out.width = '67%', fig.align='left'}
+knitr::include_graphics("imgs/Jonathan.jpg")
+```
 
-<!-- </div> -->
+</div>
 
-<!-- <div style="width: 33%; float: right">  -->
+<div style="width: 33%; float: right">
 
-<!-- #### Mohamad Jouni  -->
+#### Prince Gashongore
 <!-- Post-Doc	Student -->
-<!-- ```{r JOUNI, echo=FALSE, out.width = '86%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/jouni.png") -->
-<!-- ``` -->
+```{r Prince, echo=FALSE, out.width = '86%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
 
-<!-- </div> -->
+</div>
 
-<!-- <br/> -->
+<br/>
 
-<!-- <br/> -->
-<!-- <br/> -->
+<br/>
+<br/>
 
-<!-- <br/> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-
-
-<!-- ----- -->
-
-<!-- <br/> -->
-
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- <br/> -->
+<br/>
+<br/>
+<br/>
 
 
 
-<!-- It is our great pleasure to warmly invite you to the 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - Recent Trends in Computer Science and Artificial Intelligence (CollaboTICS 2021) between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further as topics of Artificial Intelligence are becoming of high concern recently. Our vision is that this event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups. -->
+-----
+
+<br/>
+
+<br/>
+<br/>
+
+<br/>
 
 
+It is our great pleasure to warmly invite you to the 2022 International Collaborative Workshop of RUB-UGA-UT, 4th Edition - Recent Trends in Computer Science and Artificial Intelligence (CollaboTICS 2022) between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further as topics of Artificial Intelligence are becoming of high concern recently. Our vision is that this event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups.
 
-
+Prince, Jeongwoo & Jonathan
 
 
 ## General Organization
@@ -158,10 +155,22 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
 
 #### Yuri Lavinas
-PhD Student
+PhD Candidate
 ```{r Lavinas, echo=FALSE, out.width = '79%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
+[Personal website](https://yurilavinas.github.io/)
+
+
+
+
+
+
+
+
+</div>
+
+<div style="width: 33%; float: left;">
 
 #### Djafer Benchadi
 PhD Student
@@ -169,114 +178,9 @@ PhD Student
 knitr::include_graphics("imgs/Djafer.jpg")
 ```
 
-<!-- [Personal website](https://yurilavinas.github.io/) -->
 
 
-
-<!-- #### Erica	Shimomoto -->
-<!-- PhD	Student -->
-<!-- ```{r Shimomoto, echo=FALSE, out.width = '42%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/erica.jpg") -->
-<!-- ``` -->
-
-
-
-
-<!-- #### Maha Mahyub -->
-<!-- Master Student -->
-<!-- ```{r maha, echo=FALSE, out.width = '60%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/maha.jpg") -->
-<!-- ``` -->
-
-
-
-<!-- #### Yifan He -->
-<!-- PhD Student -->
-<!-- ```{r yifan, echo=FALSE, out.width = '60%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
-<!-- ``` -->
-
-
-
-
-
-<!-- </div> -->
-
-<!-- <div style="width: 33%; float: left;">  -->
-
-
-<!-- #### Resendiz	Mariel -->
-<!-- PhD Student -->
-<!-- ```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/mariel.JPG") -->
-<!-- ``` -->
-
-
-
-<!-- #### Bourahmoune Katia -->
-<!-- PhD	Student -->
-<!-- ```{r Bourahmoune, echo=FALSE, out.width = '68%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/katia.jpg") -->
-<!-- ``` -->
-
-
-
-<!-- #### Mehari Yohannes -->
-<!-- PhD Student -->
-<!-- ```{r mehari, echo=FALSE, out.width = '71%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/mehari.JPG") -->
-<!-- ``` -->
-
-
-
-<!-- #### Hajime Karamatsu -->
-<!-- Master Student -->
-<!-- ```{r hajime, echo=FALSE, out.width = '60%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/missing_avatar.svg") -->
-<!-- ``` -->
-
-
-
-<!-- </div> -->
-
-<!-- <div style="width: 33%; float: right;">  -->
-
-
-<!-- #### Jan Freiwald -->
-<!-- PhD Student -->
-<!-- ```{r Freiwald, echo=FALSE, out.width = '55%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/freiwald.jpg") -->
-<!-- ``` -->
-
-
-
-<!-- #### Jair Pereira -->
-<!-- PhD Student -->
-<!-- ```{r Pereira, echo=FALSE, out.width = '56%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/jair.jpeg") -->
-<!-- ``` -->
-
-
-
-
-<!-- #### Abe Mitsu Teru -->
-<!-- Master Student -->
-<!-- ```{r abe, echo=FALSE, out.width = '70%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/abe.jpg") -->
-<!-- ``` -->
-
-
-
-
-<!-- #### Shizuka Akahori -->
-<!-- Master Student -->
-<!-- ```{r Shizuka, echo=FALSE, out.width = '60%', fig.align='left'} -->
-<!-- knitr::include_graphics("imgs/shizuka.jpg") -->
-<!-- ``` -->
-
-
-
-<!-- </div> -->
+</div>
 
 
 </div>

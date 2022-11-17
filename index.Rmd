@@ -109,13 +109,13 @@ The CollaboTICS 2022 is pleased to announce the full virtual conference program 
 
 
 - Deadline
---- Poster/presentation material will be the 11 December 2022.
+--- Poster/presentation material will be the DD December 2022.
 
 <!-- We are sorry to announce that we are no longer accepting new presentations. -->
 
-<!-- If you want to present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6). -->
+If you want to present at our workshop, please fill [this form](https://forms.gle/rcR6Ybo5n6sdC1yL9).
 
-<!-- For more information see the [registration](https://CollaboTICS2021.github.io/registration) section. -->
+For more information see the [registration](https://CollaboTICS2022.github.io/registration) section.
 
 #### Using Gather
 
