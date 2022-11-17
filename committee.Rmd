@@ -94,7 +94,7 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 <div style="width: 33%; float: left">
 
 #### Jeongwoo Kang
-<!-- PhD Student -->
+<!-- PhD student -->
 ```{r Jeongwoo, echo=FALSE, out.width = '74%', fig.align='left'}
 knitr::include_graphics("imgs/jeongwoo.jpeg")
 ```
@@ -104,7 +104,7 @@ knitr::include_graphics("imgs/jeongwoo.jpeg")
 <div style="width: 33%; float: left">
 
 #### Jonathan Evertz
-<!-- PhD Student -->
+<!-- PhD student -->
 ```{r Jonathan, echo=FALSE, out.width = '67%', fig.align='left'}
 knitr::include_graphics("imgs/Jonathan.jpg")
 ```
@@ -114,7 +114,7 @@ knitr::include_graphics("imgs/Jonathan.jpg")
 <div style="width: 33%; float: right">
 
 #### Prince Gashongore
-<!-- Post-Doc	Student -->
+<!-- Post-Doc	student -->
 ```{r Prince, echo=FALSE, out.width = '86%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
@@ -155,16 +155,78 @@ Prince, Jeongwoo & Jonathan
 
 
 #### Yuri Lavinas
-PhD Candidate
+PhD candidate
 ```{r Lavinas, echo=FALSE, out.width = '79%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 [Personal website](https://yurilavinas.github.io/)
 
+Bojan Batalo
+PhD candidate
+```{r Bojan, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/bojan.jpg")
+```
 
 
+#### Maha Mahyub
+PhD student
+```{r maha, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/maha.jpg")
+```
 
 
+#### Jair Pereira
+PhD student
+```{r jair, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/jair.jpeg")
+```
+
+#### Djafer Benchadi
+PhD student
+```{r Djafer, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/Djafer.jpg")
+```
+
+
+</div>
+
+<div style="width: 33%; float: left;">
+
+#### Mehari
+<!-- PhD candidate -->
+```{r Mehari, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/mehari.JPG")
+```
+
+#### Simon Hakenes
+PhD student
+```{r Simon, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Tom Maus
+PhD student
+```{r maus, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Wa Ode Zuhayeni Madjida
+<!-- PhD candidate -->
+```{r Madjida, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Koji Noshiro
+Undergraduate student
+```{r Koji, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### John Bosco
+<!-- PhD candidate -->
+```{r Bosco, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
 
 
 
@@ -172,13 +234,42 @@ knitr::include_graphics("imgs/myself3.png")
 
 <div style="width: 33%; float: left;">
 
-#### Djafer Benchadi
-PhD Student
-```{r Djafer, echo=FALSE, out.width = '79%', fig.align='left'}
-knitr::include_graphics("imgs/Djafer.jpg")
+#### Akahori Shizuka
+Master student
+```{r Shizuka, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/shizuka.jpg")
 ```
 
 
+#### Zuhayeni
+<!-- PhD candidate -->
+```{r Zuhayeni, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Abhijeet Pendyala
+PhD student
+```{r Pendyala, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Rina Trisminingsih
+<!-- PhD candidate -->
+```{r rina, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Felipe Nonato
+Master student
+```{r Nonato, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+#### Suzana
+PhD student
+```{r Suzana, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
 
 </div>
 
