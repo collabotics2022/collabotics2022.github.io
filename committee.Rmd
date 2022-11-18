@@ -201,7 +201,7 @@ knitr::include_graphics("imgs/mehari.JPG")
 #### Simon Hakenes
 PhD student
 ```{r Simon, echo=FALSE, out.width = '79%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+knitr::include_graphics("imgs/simon.jpg")
 ```
 
 #### Tom Maus

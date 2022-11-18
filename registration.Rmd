@@ -114,11 +114,10 @@ The workshop will host two types of presentations: Oral Presentations and Poster
 
 ## Important dates
 
-- Presenter Registration Deadline: DD December 2022, 23:59 JST (15:59 CET)
-- Oral Presentation Submission Deadline: DD December 2022, 23:59 JST (15:59 CET)
-- Poster Presentation Submission Deadline: DD December 2022, 23:59 JST (15:59 CET)
-- Audience Registration Deadline: DD December 2022, 23:59 JST (15:59 CET)
-
+- Presenter Registration Deadline: 08 December 2022, 23:59 JST (15:59 CET)
+- Oral Presentation Submission Deadline: 11 December 2022, 23:59 JST (15:59 CET)
+- Poster Presentation Submission Deadline: 11 December 2022, 23:59 JST (15:59 CET)
+- Audience Registration Deadline: 13 December 2022, 23:59 JST (15:59 CET)
 
 ### Oral Presentations
 
@@ -126,16 +125,16 @@ The workshop will host two types of presentations: Oral Presentations and Poster
   -  Professor oral presentation: 20 minutes + 10 minutes for Questions and Answers.
 
   - All oral presenters should send their presentation slides to <CollaboTICS2022@gmail.com>
-      1. (in PDF format) by DD December, 23:59 Japan Standard Time (JST) - DD December, 15:59 Central European Time (CET).
+      1. (in PDF format) by 11 December, 23:59 Japan Standard Time (JST) - 11 December, 15:59 Central European Time (CET).
       2. The slides will be made available on the website after the workshop.
 
 ### Poster Presentations
 
   - Poster presentation and a 1-minute spotlight video.
-  - Each poster presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session. All poster presenters should send a "poster presentation kit" by DD December, 23:59 Japan Standard Time (JST) - DD December, 15:59 Central European Time (CET).
+  - Each poster presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session. All poster presenters should send a "poster presentation kit" by 11 December, 23:59 Japan Standard Time (JST) - 11 December, 15:59 Central European Time (CET).
 
   - All oral presenters should send their presentation slides to <CollaboTICS2022@gmail.com>
-    - (in PDF format) by DD December, 23:59 Japan Standard Time (JST) - DD December, 15:59 Central European Time (CET).
+    - (in PDF format) by 11 December, 23:59 Japan Standard Time (JST) - 11 December, 15:59 Central European Time (CET).
 
 
 #### This kit includes:
