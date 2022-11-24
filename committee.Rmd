@@ -207,7 +207,7 @@ knitr::include_graphics("imgs/simon.jpg")
 #### Tom Maus
 PhD student
 ```{r maus, echo=FALSE, out.width = '79%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+knitr::include_graphics("imgs/TomKopie.JPG")
 ```
 
 #### Wa Ode Zuhayeni Madjida
@@ -247,6 +247,13 @@ knitr::include_graphics("imgs/shizuka.jpg")
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
+#### Suzana
+PhD student
+```{r Suzana, echo=FALSE, out.width = '79%', fig.align='left'}
+knitr::include_graphics("imgs/suzana.jpg")
+```
+
+
 #### Abhijeet Pendyala
 PhD student
 ```{r Pendyala, echo=FALSE, out.width = '79%', fig.align='left'}
@@ -265,11 +272,6 @@ Master student
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
-#### Suzana
-PhD student
-```{r Suzana, echo=FALSE, out.width = '79%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
 
 </div>
 
