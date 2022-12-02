@@ -10,10 +10,10 @@ navbar:
       href: program.html
     - text: "Registration & Submission"
       href: registration.html
-    - text: "Spotlight Video"
-      href: video.html
-    - text: "Presentation Videos"
-      href: presentation.html
+    # - text: "Spotlight Video"
+    #   href: video.html
+    # - text: "Presentation Videos"
+    #   href: presentation.html
     - text: "Committee"
       href: committee.html
   right:

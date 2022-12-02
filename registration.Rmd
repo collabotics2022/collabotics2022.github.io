@@ -130,7 +130,6 @@ The workshop will host two types of presentations: Oral Presentations and Poster
 
 ### Poster Presentations
 
-  - Poster presentation and a 1-minute spotlight video.
   - Each poster presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session. All poster presenters should send a "poster presentation kit" by 11 December, 23:59 Japan Standard Time (JST) - 11 December, 15:59 Central European Time (CET).
 
   - All oral presenters should send their presentation slides to <CollaboTICS2022@gmail.com>
@@ -142,12 +141,10 @@ The workshop will host two types of presentations: Oral Presentations and Poster
   - Poster: To be available at the poster session room on Gather.
   - Landscape orientation;
   - Size: Widescreen (16:9) [Click here for an example of a poster](https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing)
-  - Spotlight Video: To be available on the website and at the entrance of the poster session room on Gather.
-  - 1 minute, with a brief overview of the poster presentation
-  - Format and resolution: MP4; 720p or better.
 
-<!-- #### Using Gather -->
+#### Using Gather
 
+We  will make Gather town available for users to try the platform before event.
 <!-- [Click here](https://gather.town/invite?token=KQz_tOL_HoATchjTau33qxs7irtEM4N6) for an example room where prospective participants of the workshop can enter and explore the platform prior the event. -->
 
 

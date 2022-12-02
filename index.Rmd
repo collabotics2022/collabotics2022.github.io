@@ -120,8 +120,7 @@ For more information see the [registration](https://CollaboTICS2022.github.io/re
 
 #### Using Gather
 
-TBA
-
+We  will make Gather town available for users to try the platform before event.
 <!-- [Click here](https://gather.town/invite?token=KQz_tOL_HoATchjTau33qxs7irtEM4N6) for an example room where prospective participants of the workshop can enter and explore the platform prior the event. -->
 
 
