@@ -95,7 +95,7 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
 <tr style="text-align:center">
 <th>Japan Time</th>
-<th>Paris Time</th>
+<th>Europe Time</th>
 <th>Section A</th>
 <th>Section B</th>
 </tr>
