@@ -368,7 +368,7 @@ Presentation Room B
 <th>18:40 - 19:00</th>
 <th>10:40 - 11:00</th>
 <td><i><b>Uncertainty-based Out-of-distribution detection for Multiple Sclerosis lesions segmentation</b></i>
-<br> <i>Lambert</i><br>
+<br> <i>Benjamin Lambert</i><br>
 Presentation Room A
 </td>
 <td><i><b>Quantum Algorithm for Regularized Spectral Clustering</b></i>
