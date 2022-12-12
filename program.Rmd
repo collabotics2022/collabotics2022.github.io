@@ -110,7 +110,7 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 <th>16:20 - 16:50</th>
 <th>08:20 - 08:50</th>
 <td colspan="2"><i><b>Origami and Computer Sciece</b></i>
-<br> <i>Jun  Mitani</i> <br>
+<br> <i>Jun Mitani</i> <br>
 
 Keynote Room
 </td>
@@ -188,8 +188,8 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:35 - 18:55</th>
 <th>10:35 - 10:55</th>
-<td><i><b>Introducing the expohedron for fair ranking</b></i>
-<br> <i>Till Kletti</i><br>
+<td><i><b>Dynamic Evolutionary Algorithm</b></i>
+<br> <i>Alexandre Mascarenhas</i><br>
 Presentation Room A
 </td>
 <td><i><b>ASTRAL: Bias Mitigation in Federated Learning</b></i>
@@ -201,9 +201,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:55 - 19:15</th>
 <th>10:55 - 11:15</th>
-<td><i><b>Dynamic Evolutionary Algorithm</b></i>
-<br> <i>Alexandre Mascarenhas</i><br>
+<td><i><b>Prediction of RNA subcellular localization</b></i>
+<br> <i>Zhaoyue Zhang</i><br>
 Presentation Room A
+
+
 </td>
 <td><i><b>A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval</b></i>
 <br> <i>Erica Kido Shimomoto</i><br>
@@ -221,29 +223,30 @@ Presentation Room B
 <tr style="text-align:center">
 <th>19:45 - 20:05</th>
 <th>11:45 - 12:05</th>
-<td><i><b>Prediction of RNA subcellular localization</b></i>
-<br> <i>Zhaoyue Zhang</i><br>
-Presentation Room A
-</td>
 <td><i><b>Active Facemask Detection for Social Distancing Mobile Robot</b></i>
 <br> <i>Sumiya Ejaz</i><br>
+Presentation Room A
+</td>
+<td><i><b>Narrative Generation in A.I.Wolf</b></i>
+<br> <i>Felipe Nonato</i><br>
 Presentation Room B
 </td>
 </tr>
+
 
 <tr style="text-align:center">
 <th>20:05 - 20:25</th>
 <th>12:05 - 12:25</th>
-<td><i><b>Narrative Generation in A.I.Wolf</b></i>
-<br> <i>Felipe Nonato</i><br>
-Presentation Room A
-</td>
 <td><i><b>Malware Classification based on Representative Digital Images</b></i>
 <br> <i>Benchadi Djafer Yahia M</i><br>
+Presentation Room A
+
+</td>
+<td><i><b>Graph-based functional connectivity analysis of Human Brain and Artificial Neural Networks</b></i>
+<br> <i>Lucrezia Carboni</i><br>
 Presentation Room B
 </td>
 </tr>
-
 
 <tr style="text-align:center">
 <th>20:25 - 20:30</th>
@@ -279,16 +282,15 @@ Keynote Room
 <th>08:00 - 08:05</th>
 <th colspan="2">Opening - Keynote Room</th>
 </tr>
-
-<tr style="text-align:center">
-<th>16:05 - 16:35</th>
-<th>08:05 - 08:35</th>
-<td colspan="2"><i><b>Neural mechanisms for fast and accurate decision-making to stop actions</b></i>
-<br> <i>Robert Schmidt</i> <br>
-
 Keynote Room
 </td>
 </tr>
+
+<tr style="text-align:center">
+<th>20:25 - 20:55</th>
+<th>12:25 - 12:55</th>
+<td colspan="2"><i><b>Knowledge graph management through named graphs</b></i>
+<br> <i>Ziébelin Danielle</i> <br>
 
 <tr style="text-align:center">
 <th>16:35 - 16:40</th>
@@ -300,8 +302,8 @@ Keynote Room
 <tr style="text-align:center">
 <th>16:40 - 17:00</th>
 <th>08:40 - 09:00</th>
-<td><i><b>Graph-based functional connectivity analysis of Human Brain and Artificial Neural Networks</b></i>
-<br> <i>Lucrezia Carboni</i><br>
+<td><i><b>Introducing the expohedron for fair ranking</b></i>
+<br> <i>Till Kletti</i><br>
 Presentation Room A
 </td>
 <td><i><b>My Fake/Your Fake? Attributing fake Images to a Generative Model</b></i>
@@ -425,11 +427,10 @@ Presentation Room B
 </tr>
 
 <tr style="text-align:center">
-<th>20:25 - 20:55</th>
-<th>12:25 - 12:55</th>
-<td colspan="2"><i><b>Knowledge graph management through named graphs</b></i>
-<br> <i>Ziébelin Danielle</i> <br>
-
+<th>16:05 - 16:35</th>
+<th>08:05 - 08:35</th>
+<td colspan="2"><i><b>Neural mechanisms for fast and accurate decision-making to stop actions</b></i>
+<br> <i>Robert Schmidt</i> <br>
 Keynote Room
 </td>
 </tr>
