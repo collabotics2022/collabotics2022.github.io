@@ -287,8 +287,8 @@ Keynote Room
 </tr>
 
 <tr style="text-align:center">
-<th>20:25 - 20:55</th>
-<th>12:25 - 12:55</th>
+<th>16:05 - 16:35</th>
+<th>8:05 - 8:35</th>
 <td colspan="2"><i><b>Knowledge graph management through named graphs</b></i>
 <br> <i>Ziébelin Danielle</i> <br>
 
@@ -427,8 +427,8 @@ Presentation Room B
 </tr>
 
 <tr style="text-align:center">
-<th>16:05 - 16:35</th>
-<th>08:05 - 08:35</th>
+<th>20:25 - 20:55</th>
+<th>12:25 - 12:55</th>
 <td colspan="2"><i><b>Neural mechanisms for fast and accurate decision-making to stop actions</b></i>
 <br> <i>Robert Schmidt</i> <br>
 Keynote Room

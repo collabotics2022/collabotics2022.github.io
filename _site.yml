@@ -12,7 +12,7 @@ navbar:
       href: registration.html
     # - text: "Spotlight Video"
     #   href: video.html
-    # - text: "Presentation Videos"
+    # - text: "Slides"
     #   href: presentation.html
     - text: "Committee"
       href: committee.html
