@@ -85,6 +85,9 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
 
 <div id="complete-program" class="section level4">
+We  will make Gather town available for users to try the platform before event.
+
+[Check here](https://docs.google.com/document/d/1pUAC8oPAWrUIzMIIF5JcvBRKjk42wMtF/edit) a manual on how to use Gather.
 
 </div>
 
@@ -204,11 +207,11 @@ Presentation Room B
 <td><i><b>Prediction of RNA subcellular localization</b></i>
 <br> <i>Zhaoyue Zhang</i><br>
 Presentation Room A
-
-
 </td>
-<td><i><b>A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval</b></i>
-<br> <i>Erica Kido Shimomoto</i><br>
+<td><i><b>Learning mutual subspace method for image set
+recognition</b></i>
+<br> <i>Lincon Souza</i><br>
+
 Presentation Room B
 </td>
 </tr>
@@ -409,9 +412,8 @@ Presentation Room B
 <tr style="text-align:center">
 <th>20:00 - 20:20</th>
 <th>12:00 - 12:20</th>
-<td><i><b>Learning mutual subspace method for image set
-recognition</b></i>
-<br> <i>Lincon Souza</i><br>
+<td><i><b>A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval</b></i>
+<br> <i>Erica Kido Shimomoto</i><br>
 Presentation Room A
 </td>
 <td><i><b>Blind Deconvolution Of Video Sequences Based on Sparse Optimization and patch segmentation</b></i>
@@ -419,6 +421,7 @@ Presentation Room A
 Presentation Room B
 </td>
 </tr>
+
 
 <tr style="text-align:center">
 <th>20:20 - 20:25</th>
