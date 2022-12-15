@@ -106,7 +106,7 @@ https://drive.google.com/file/d/1FOjbWrCitVm3dBhDJLTQG1VsoDCHEZAP/view?usp=share
 
 S2: Artistic Images Modify Human Eye Gaze Behavior, Nicholas Schwier.
 
-S3: Multi-object tracking in sports using group movement characteristics, Atom Scott.
+S3: Multi-object tracking in sports using group movement characteristics, Atom Scott. https://drive.google.com/file/d/14gYbPrbOx0EXVtrO522ZCV2aSrpCMISm/view?usp=share_link
 
 S4: Comparison and Evaluation of Deep Learning for Humanoid Animation Based on Quaternions, Woon Nam.
 
