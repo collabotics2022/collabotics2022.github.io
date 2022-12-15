@@ -127,11 +127,11 @@ We  will make Gather town available for users to try the platform before event.
 <tr style="text-align:center">
 <th>16:55 - 17:15</th>
 <th>08:55 - 09:15</th>
-<td><i><b>How Data Diversification Benefits the Reliability of Three-version Image classification Systems </b></i>
+<td><i><b>01: How Data Diversification Benefits the Reliability of Three-version Image classification Systems </b></i>
 <br> <i>Mitsuho Takahashi</i><br>
 Presentation Room A
 </td>
-<td><i><b>Artistic Images Modify Human Eye Gaze Behavior</b></i>
+<td><i><b>02: Artistic Images Modify Human Eye Gaze Behavior</b></i>
 <br> <i>Nicholas Schwier</i><br>
 Presentation Room B
 </td>
@@ -141,11 +141,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>17:15 - 17:35</th>
 <th>09:15 - 09:35</th>
-<td><i><b>Multi-object tracking in sports using group movement characteristics</b></i>
+<td><i><b>03: Multi-object tracking in sports using group movement characteristics</b></i>
 <br> <i>Atom Scott</i><br>
 Presentation Room A
 </td>
-<td><i><b>Comparison and Evaluation of Deep Learning for Humanoid Animation Based on Quaternions</b></i>
+<td><i><b>04: Comparison and Evaluation of Deep Learning for Humanoid Animation Based on Quaternions</b></i>
 <br> <i>Woon Nam</i><br>
 Presentation Room B
 </td>
@@ -176,11 +176,11 @@ Keynote Room
 <tr style="text-align:center">
 <th>18:15 - 18:35</th>
 <th>10:15 - 10:35</th>
-<td><i><b>Drift Analysis for Evolutionary Algorithms</b></i>
+<td><i><b>05: Drift Analysis for Evolutionary Algorithms</b></i>
 <br> <i>Stephan Frank</i><br>
 Presentation Room A
 </td>
-<td><i><b>AIMHI: Protecting Sensitive Data through Federated Co-Training</b></i>
+<td><i><b>06: AIMHI: Protecting Sensitive Data through Federated Co-Training</b></i>
 <br> <i>Amr Abourayya</i><br>
 Presentation Room B
 </td>
@@ -189,11 +189,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:35 - 18:55</th>
 <th>10:35 - 10:55</th>
-<td><i><b>Dynamic Evolutionary Algorithm</b></i>
+<td><i><b>07: Dynamic Evolutionary Algorithm</b></i>
 <br> <i>Alexandre Mascarenhas</i><br>
 Presentation Room A
 </td>
-<td><i><b>ASTRAL: Bias Mitigation in Federated Learning</b></i>
+<td><i><b>08: ASTRAL: Bias Mitigation in Federated Learning</b></i>
 <br> <i>Yasmine Djebrouni</i><br>
 Presentation Room B
 </td>
@@ -202,11 +202,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:55 - 19:15</th>
 <th>10:55 - 11:15</th>
-<td><i><b>Prediction of RNA subcellular localization</b></i>
+<td><i><b>09: Prediction of RNA subcellular localization</b></i>
 <br> <i>Zhaoyue Zhang</i><br>
 Presentation Room A
 </td>
-<td><i><b>Learning mutual subspace method for image set
+<td><i><b>10: Learning mutual subspace method for image set
 recognition</b></i>
 <br> <i>Lincon Souza</i><br>
 
@@ -224,11 +224,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>19:45 - 20:05</th>
 <th>11:45 - 12:05</th>
-<td><i><b>Active Facemask Detection for Social Distancing Mobile Robot</b></i>
+<td><i><b>11: Active Facemask Detection for Social Distancing Mobile Robot</b></i>
 <br> <i>Sumiya Ejaz</i><br>
 Presentation Room A
 </td>
-<td><i><b>Narrative Generation in A.I.Wolf</b></i>
+<td><i><b>12: Narrative Generation in A.I.Wolf</b></i>
 <br> <i>Felipe Nonato</i><br>
 Presentation Room B
 </td>
@@ -238,12 +238,12 @@ Presentation Room B
 <tr style="text-align:center">
 <th>20:05 - 20:25</th>
 <th>12:05 - 12:25</th>
-<td><i><b>Malware Classification based on Representative Digital Images</b></i>
+<td><i><b>13: Malware Classification based on Representative Digital Images</b></i>
 <br> <i>Benchadi Djafer Yahia M</i><br>
 Presentation Room A
 
 </td>
-<td><i><b>Graph-based functional connectivity analysis of Human Brain and Artificial Neural Networks</b></i>
+<td><i><b>14: Graph-based functional connectivity analysis of Human Brain and Artificial Neural Networks</b></i>
 <br> <i>Lucrezia Carboni</i><br>
 Presentation Room B
 </td>
@@ -296,11 +296,11 @@ Keynote Room
 <tr style="text-align:center">
 <th>16:40 - 17:00</th>
 <th>08:40 - 09:00</th>
-<td><i><b>Introducing the expohedron for fair ranking</b></i>
+<td><i><b>01: Introducing the expohedron for fair ranking</b></i>
 <br> <i>Till Kletti</i><br>
 Presentation Room A
 </td>
-<td><i><b>My Fake/Your Fake? Attributing fake Images to a Generative Model</b></i>
+<td><i><b>02: My Fake/Your Fake? Attributing fake Images to a Generative Model</b></i>
 <br> <i>Mike Laszkiewicz</i><br>
 Presentation Room B
 </td>
@@ -309,11 +309,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>17:00 - 17:20</th>
 <th>09:00 - 09:20</th>
-<td><i><b>Natural Image Decay with a Decay Effects Generator</b></i>
+<td><i><b>03: Natural Image Decay with a Decay Effects Generator</b></i>
 <br> <i>HAO Guoqing</i><br>
 Presentation Room A
 </td>
-<td><i><b>Human-Machine Interaction</b></i>
+<td><i><b>04: Human-Machine Interaction</b></i>
 <br> <i>Zixin Cui (Tracy Cui)</i><br>
 Presentation Room B
 </td>
@@ -344,11 +344,11 @@ Keynote Room
 <tr style="text-align:center">
 <th>18:00 - 18:20</th>
 <th>10:00 - 10:20</th>
-<td><i><b>Transformer-Based Self-Supervised Learning for Emotion Recognition</b></i>
+<td><i><b>05: Transformer-Based Self-Supervised Learning for Emotion Recognition</b></i>
 <br> <i>Juan Vazquez-Rodriguez</i><br>
 Presentation Room A
 </td>
-<td><i><b>A Clustering Routing Algorithm in Static WSN for Power Saving</b></i>
+<td><i><b>06: A Clustering Routing Algorithm in Static WSN for Power Saving</b></i>
 <br> <i>Kazuya Matsui</i><br>
 Presentation Room B
 </td>
@@ -357,11 +357,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:20 - 18:40</th>
 <th>10:20 - 10:40</th>
-<td><i><b>Particul: Part Identification with Confidence Measure using Unsupervised Learning</b></i>
+<td><i><b>07: Particul: Part Identification with Confidence Measure using Unsupervised Learning</b></i>
 <br> <i>Romain Xu-Darme</i><br>
 Presentation Room A
 </td>
-<td><i><b>Clustering Algorithm for WSN Based on Cluster Head Competition</b></i>
+<td><i><b>08: Clustering Algorithm for WSN Based on Cluster Head Competition</b></i>
 <br> <i>Huadong Xin</i><br>
 Presentation Room B
 </td>
@@ -370,11 +370,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>18:40 - 19:00</th>
 <th>10:40 - 11:00</th>
-<td><i><b>Uncertainty-based Out-of-distribution detection for Multiple Sclerosis lesions segmentation</b></i>
+<td><i><b>09: Uncertainty-based Out-of-distribution detection for Multiple Sclerosis lesions segmentation</b></i>
 <br> <i>Benjamin Lambert</i><br>
 Presentation Room A
 </td>
-<td><i><b>Quantum Algorithm for Regularized Spectral Clustering</b></i>
+<td><i><b>10: Quantum Algorithm for Regularized Spectral Clustering</b></i>
 <br> <i>Changzhou Long</i><br>
 Presentation Room B
 </td>
@@ -390,11 +390,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>19:40 - 20:00</th>
 <th>11:40 - 12:00</th>
-<td><i><b>Machine Learning curriculums generated by classifier ensembles</b></i>
+<td><i><b>11: Machine Learning curriculums generated by classifier ensembles</b></i>
 <br> <i>Tzu-Jui Huang</i><br>
 Presentation Room A
 </td>
-<td><i><b>Analysis of the Complementarity of Latent and Concept Spaces for Cross-Modal Video Search</b></i>
+<td><i><b>12: Analysis of the Complementarity of Latent and Concept Spaces for Cross-Modal Video Search</b></i>
 <br> <i>Varsha Devi</i><br>
 Presentation Room B
 </td>
@@ -403,11 +403,11 @@ Presentation Room B
 <tr style="text-align:center">
 <th>20:00 - 20:20</th>
 <th>12:00 - 12:20</th>
-<td><i><b>A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval</b></i>
+<td><i><b>13: A Subspace-Based Analysis of Structured and Unstructured Representations in Image-Text Retrieval</b></i>
 <br> <i>Erica Kido Shimomoto</i><br>
 Presentation Room A
 </td>
-<td><i><b>Blind Deconvolution Of Video Sequences Based on Sparse Optimization and patch segmentation</b></i>
+<td><i><b>14: Blind Deconvolution Of Video Sequences Based on Sparse Optimization and patch segmentation</b></i>
 <br> <i>Zhang Shipeng</i><br>
 Presentation Room B
 </td>
