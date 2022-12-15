@@ -115,6 +115,7 @@ We  will make Gather town available for users to try the platform before event.
 <th>08:20 - 08:50</th>
 <td colspan="2"><i><b>Origami and Computer Science</b></i>
 <br> <i>Jun Mitani</i> <br>
+Keynote Room
 </td>
 </tr>
 
