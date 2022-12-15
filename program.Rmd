@@ -107,6 +107,7 @@ We  will make Gather town available for users to try the platform before event.
 <th>16:00 - 16:20</th>
 <th>08:00 - 08:20</th>
 <th colspan="2">Opening - Keynote Room</th>
+
 </tr>
 
 <tr style="text-align:center">
@@ -114,8 +115,6 @@ We  will make Gather town available for users to try the platform before event.
 <th>08:20 - 08:50</th>
 <td colspan="2"><i><b>Origami and Computer Science</b></i>
 <br> <i>Jun Mitani</i> <br>
-
-Keynote Room
 </td>
 </tr>
 
@@ -163,7 +162,6 @@ Presentation Room B
 <th>09:40 - 10:10</th>
 <td colspan="2"><i><b>Artificial cultural knowledge evolution: agents that share knowledge</b></i>
 <br> <i>Jerome Euzenat</i> <br>
-
 Keynote Room
 </td>
 </tr>
@@ -262,30 +260,23 @@ Presentation Room B
 <th>12:30 - 13:00</th>
 <td colspan="2"><i><b>Real-time processing of Spatial Data Streams </b></i>
 <br> <i>Salman Ahmed Shaikh</i> <br>
-
 Keynote Room
 </td>
 </tr>
-
-
-
 </table>
 
 <br>
 
 
-
 <table border="1">
 <tr style="text-align:center">
-<th colspan=4>DAY 2 - December 16th</th>
+  <th colspan=4>DAY 2 - December 16th</th>
 </tr>
 
 <tr style="text-align:center">
 <th>16:00 - 16:05</th>
 <th>08:00 - 08:05</th>
-<th colspan="2">Opening - Keynote Room</th>
-</tr>
-Keynote Room
+<th colspan="2">Opening - Keynote Room</th></tr>
 </td>
 </tr>
 
@@ -450,7 +441,7 @@ Keynote Room
 
 
 
-
+-------
 
 
 

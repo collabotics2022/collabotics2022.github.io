@@ -194,7 +194,8 @@ knitr::include_graphics("imgs/Djafer.jpg")
 
 #### Mehari
 <!-- PhD candidate -->
-```{r Mehari, echo=FALSE, out.width = '79%', fig.align='left'}
+Student
+```{r Mehari, echo=FALSE, out.width = '77%', fig.align='left'}
 knitr::include_graphics("imgs/mehari.JPG")
 ```
 
@@ -236,7 +237,7 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 #### Akahori Shizuka
 Master student
-```{r Shizuka, echo=FALSE, out.width = '79%', fig.align='left'}
+```{r Shizuka, echo=FALSE, out.width = '59%', fig.align='left'}
 knitr::include_graphics("imgs/shizuka.jpg")
 ```
 
